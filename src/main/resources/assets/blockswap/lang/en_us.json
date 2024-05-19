@@ -1,0 +1,7 @@
+{
+  "key.blockswap.toggle_swap": "Toggle Block Swapping",
+  "text.blockswap.cannot_swap": "Cannot swap block with %s",
+  "text.config.blockswap-config.title": "Blockswap Configuration",
+  "text.config.blockswap-config.option.blacklistedIdentifiers": "Blacklisted Identifiers",
+  "text.config.blockswap-config.option.blacklistedTags": "Blacklisted Tags"
+}
